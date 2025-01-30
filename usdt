@@ -1,0 +1,19 @@
+{
+    "name": "USDTs",
+    "timestamp": "2024-01-30T00:00:00+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x73617CBAD502C81c17364DAD34D329Aeb25a6f4a",
+        "name": "USDTs",
+        "symbol": "USDTs",
+        "decimals": 0,
+        "logoURI": "https://seusite.com/logo.png"
+      }
+    ]
+  }
