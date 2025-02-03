@@ -14,7 +14,11 @@
       "symbol": "USDTs",
       "decimals": 0,
       "logoURI": "https://github.com/devwappcloud/USDTs/blob/main/logo.png",
-      "marketPrice": 1.05
+      "conversionRates": {
+        "USDT": 1.05,
+        "ETH": 0.00042,
+        "BNB": 0.0032
+      }
     }
   ]
 }
