@@ -1,0 +1,8 @@
+{
+  "name": "USDTs",
+  "symbol": "USDTs",
+  "decimals": 18,
+  "contractAddress": "0x73617CBAD502C81c17364DAD34D329Aeb25a6f4a",
+  "image": "https://raw.githubusercontent.com/devwappcloud/USDTs/main/logo.png",
+  "chainId": 1
+}
