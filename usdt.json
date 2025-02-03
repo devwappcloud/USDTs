@@ -18,7 +18,8 @@
         "USDT": 1.05,
         "ETH": 0.00042,
         "BNB": 0.0032
-      }
+      },
+      "oraclePriceFeed": "https://api.coingecko.com/api/v3/simple/price?ids=usdts&vs_currencies=usd"
     }
   ]
 }
