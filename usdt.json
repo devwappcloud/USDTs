@@ -13,7 +13,7 @@
       "name": "USDTs",
       "symbol": "USDTs",
       "decimals": 0,
-      "logoURI": "https://github.com/devwappcloud/USDTs/blob/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/devwappcloud/USDTs/main/logo.png",
       "price": 1.00
     }
   ]
